@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes Myself</string>
+
+    <!--    This is new note dialog layout-->
+    <string name="new_note_title">Add a new note</string>
+    <string name="new_note_edit_title">Title</string>
+    <string name="new_note_edit_description">Description</string>
+    <string name="new_note_idea">Idea</string>
+    <string name="new_note_todo">To do</string>
+    <string name="new_note_important">Important</string>
+    <string name="new_note_button_cancel">Cancel</string>
+    <string name="new_note_button_OK">OK</string>
+
+    <string name="show_note_button">Show Note</string>
+    <string name="fab_add_description">Add a new note</string>
+
+</resources>
