@@ -10,6 +10,8 @@
     <string name="new_note_important">Important</string>
     <string name="new_note_button_cancel">Cancel</string>
     <string name="new_note_button_OK">OK</string>
+    <string name="blank_text">No Status</string>
+    <string name="Textview">textview</string>
 
     <string name="show_note_button">Show Note</string>
     <string name="fab_add_description">Add a new note</string>
