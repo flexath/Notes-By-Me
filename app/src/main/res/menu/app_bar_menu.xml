@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/icFavourite"
+        android:title="@string/favourite_icon"
+        android:icon="@drawable/ic_favourite"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/icSetting"
+        android:title="@string/setting_icon"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/icFeedback"
+        android:title="@string/feedback_setting"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/icExit"
+        android:title="@string/exit_setting"
+        app:showAsAction="never"/>
+
+</menu>

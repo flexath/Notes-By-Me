@@ -16,4 +16,10 @@
     <string name="show_note_button">Show Note</string>
     <string name="fab_add_description">Add a new note</string>
 
+    <string name="setting_icon">Setting</string>
+    <string name="favourite_icon">Favourite</string>
+    <string name="feedback_setting">Feedback</string>
+    <string name="exit_setting">Exit</string>
+    <string name="Switch">Switch</string>
+
 </resources>

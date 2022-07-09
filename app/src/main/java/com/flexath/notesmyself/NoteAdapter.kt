@@ -17,7 +17,7 @@ class NoteAdapter(private val mainActivity: MainActivity,private val noteList: L
     override fun onBindViewHolder(holder: NoteAdapter.ViewHolder, position: Int) {
         val note = noteList[position]
         holder.itemTitle.text = note.title
-        holder.itemDescription.text = note.description!!.substring(15)
+        holder.itemDescription.text = note.description
         when {
             note.idea -> holder.itemStatus.text = mainActivity.resources.getString(R.string.new_note_idea)
             note.important -> holder.itemStatus.text = mainActivity.resources.getString(R.string.new_note_important)
